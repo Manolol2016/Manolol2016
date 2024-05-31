@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @Manolol2016
+- 👀 I’m interested in Python and Pygame
+- 🌱 I’m currently learning Python and Pygame
